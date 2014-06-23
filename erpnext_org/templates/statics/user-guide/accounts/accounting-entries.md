@@ -23,7 +23,7 @@ been debited to increase the value. He pays 2000, so "Cash" account will be
 reduced by that amount, hence credited and he is liable to pay 3000 to "Super
 Bazaar" later, so Super Bazaar will be credited by 3000.
 
-  * Mama (who takes care of all entries) decides to book sales at the end of the every day, so that he can analyze daily sales. At the end of the very first day, the tea stall sells 325 cups of tea, which gives net sales of Rs. 1575. The owner happily books his first day sales.
+  * Mama (who takes care of all entries) decides to book sales at the end of the day everyday, so that he can analyze daily sales. At the end of the very first day, the tea stall sells 325 cups of tea, which gives net sales of Rs. 1575. The owner happily books his first day sales.
 
 ![A&L](assets/erpnext_org/images/erpnext/assets-3.png)
 

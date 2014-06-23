@@ -17,3 +17,4 @@ fiscal-year
 opening-accounts
 payment-reconciliation
 point-of-sale-pos-invoice
+opening-entry

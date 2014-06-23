@@ -36,3 +36,14 @@ In this form,
 You can also update the starting point of a series by entering the series
 name and the starting point in the “Update Series” section.
 
+For Example: If you wish to change the prefix of a Delivery Note follow the following process.
+
+Step 1: Go to Setup.
+
+Step 2: Click on Update Numbering Series.
+
+Step 3: Under Select Transaction; Select the Document you wish to give new series name, example: Delivery Note.
+
+Step 4: Under Series List for the Transaction: Type the required Series type. For Example, DE/.DD./.MM./.YY./.##### 
+
+Step 5: Click on Update button. Go to the respective document and select your series. You will get this series DE/09/01/13/00001 where 09 is the day, 01 is the month and 00001 is the series.

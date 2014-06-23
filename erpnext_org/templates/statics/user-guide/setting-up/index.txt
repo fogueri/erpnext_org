@@ -20,3 +20,4 @@ third-party-backups
 workflows
 bar-code
 email-digest
+rename

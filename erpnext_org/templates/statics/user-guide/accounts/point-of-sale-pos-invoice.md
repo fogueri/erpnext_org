@@ -1,3 +1,5 @@
+# Point of Sale Invoice
+
 Point of sale (POS) is the place where a retail transaction is completed. It
 is the point at which a customer makes a payment to the merchant in exchange
 for goods or services. For retail operations, the delivery of goods, accrual
