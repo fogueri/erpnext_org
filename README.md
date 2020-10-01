@@ -1,3 +1,3 @@
-ERPNext.com / ERPNext.org website
+#ERPNext.com / ERPNext.org website
 
 Requires: Frappe Theme
